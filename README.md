@@ -21,9 +21,9 @@ Udemy.
 | 13  | [Random Choice Picker](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day13_Random_Choice_Picker)        | [Live Demo](https://50projects50days.com/projects/random-choice-picker/)          |
 | 14  | [Animated Navigation](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day14_Animated_Navigation)          | [Live Demo](https://50projects50days.com/projects/animated-navigation/)           |
 | 15  | [Incrementing Counter](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day15_Incrementing_Counter)        | [Live Demo](https://50projects50days.com/projects/incrementing-counter/)          |
+| 16  | [Drink Water](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day16_Drink_Water)                          | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
 
-<!--| 16  | [Drink Water](https://github.com/kelsi2/50_Projects_50_Days/tree/master/drink-water)                                     | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
-| 17  | [Movie App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/movie-app)                                         | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
+<!--| 17  | [Movie App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/movie-app)                                         | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
 | 18  | [Background Slider](https://github.com/kelsi2/50_Projects_50_Days/tree/master/background-slider)                         | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
 | 19  | [Theme Clock](https://github.com/kelsi2/50_Projects_50_Days/tree/master/theme-clock)                                     | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
 | 20  | [Button Ripple Effect](https://github.com/kelsi2/50_Projects_50_Days/tree/master/button-ripple-effect)                   | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |

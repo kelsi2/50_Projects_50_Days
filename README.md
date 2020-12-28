@@ -25,10 +25,9 @@ Udemy.
 | 17  | [Movie App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day17_Movie_App)                              | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
 | 18  | [Background Slider](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day18_Background_Slider)              | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
 | 19  | [Theme Clock](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day19_Theme_Clock)                          | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
+| 20  | [Button Ripple Effect](https://github.com/kelsi2/50_Projects_50_Days/tree/master/button-ripple-effect)              | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
 
-<!-- | 20 |
-[Button Ripple Effect](https://github.com/kelsi2/50_Projects_50_Days/tree/master/button-ripple-effect)
-| [Live Demo](https://50projects50days.com/projects/button-ripple-effect/) | |
+<!--|
 21 |
 [Drag N Drop](https://github.com/kelsi2/50_Projects_50_Days/tree/master/drag-n-drop)
 | [Live Demo](https://50projects50days.com/projects/drag-n-drop/) | | 22 |

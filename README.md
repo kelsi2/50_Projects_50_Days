@@ -29,10 +29,9 @@ Udemy.
 | 21  | [Drag N Drop](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day21_Drag_Drop)                            | [Live Demo](https://50projects50days.com/projects/drag-n-drop/)                   |
 | 22  | [Drawing App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day2_Drawing_App)                           | [Live Demo](https://50projects50days.com/projects/drawing-app/)                   |
 | 23  | [Kinetic Loader](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day23_Kinetic_CSS_Loader)                | [Live Demo](https://50projects50days.com/projects/kinetic-loader/)                |
+| 24  | [Content Placeholder](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day24_Content_Placeholder)          | [Live Demo](https://50projects50days.com/projects/content-placeholder/)           |
 
-<!--| 24 |
-[Content Placeholder](https://github.com/kelsi2/50_Projects_50_Days/tree/master/content-placeholder)
-| [Live Demo](https://50projects50days.com/projects/content-placeholder/) | | 25
+<!--| 25
 |
 [Sticky Navbar](https://github.com/kelsi2/50_Projects_50_Days/tree/master/sticky-navigation)
 | [Live Demo](https://50projects50days.com/projects/sticky-navbar/) | | 26 |

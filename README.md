@@ -28,10 +28,9 @@ Udemy.
 | 20  | [Button Ripple Effect](https://github.com/kelsi2/50_Projects_50_Days/tree/master/button-ripple-effect)              | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
 | 21  | [Drag N Drop](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day21_Drag_Drop)                            | [Live Demo](https://50projects50days.com/projects/drag-n-drop/)                   |
 | 22  | [Drawing App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day2_Drawing_App)                           | [Live Demo](https://50projects50days.com/projects/drawing-app/)                   |
+| 23  | [Kinetic Loader](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day23_Kinetic_CSS_Loader)                | [Live Demo](https://50projects50days.com/projects/kinetic-loader/)                |
 
-<!--| 23 |
-[Kinetic Loader](https://github.com/kelsi2/50_Projects_50_Days/tree/master/kinetic-loader)
-| [Live Demo](https://50projects50days.com/projects/kinetic-loader/) | | 24 |
+<!--| 24 |
 [Content Placeholder](https://github.com/kelsi2/50_Projects_50_Days/tree/master/content-placeholder)
 | [Live Demo](https://50projects50days.com/projects/content-placeholder/) | | 25
 |

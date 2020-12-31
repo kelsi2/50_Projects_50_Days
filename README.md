@@ -34,10 +34,9 @@ Udemy.
 | 26  | [Double Vertical Slider](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day26_Double_Vertical_Slider)    | [Live Demo](https://50projects50days.com/projects/double-vertical-slider/)        |     |
 | 27  | [Toast Notification](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day27_Toast_Notification)            | [Live Demo](https://50projects50days.com/projects/toast-notification/)            |
 | 28  | [Github Profiles](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day28_Github_Profiles)                  | [Live Demo](https://50projects50days.com/projects/github-profiles/)               |
+| 29  | [Double Click Heart](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day29_Double_Click_Heart)            | [Live Demo](https://50projects50days.com/projects/double-click-heart/)            |
 
-<!-- | 29 |
-[Double Click Heart](https://github.com/kelsi2/50_Projects_50_Days/tree/master/double-click-heart)
-| [Live Demo](https://50projects50days.com/projects/double-click-heart/) | | 30
+<!-- | 30
 |
 [Auto Text Effect](https://github.com/kelsi2/50_Projects_50_Days/tree/master/auto-text-effect)
 | [Live Demo](https://50projects50days.com/projects/auto-text-effect/) | | 31 |

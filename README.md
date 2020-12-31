@@ -5,7 +5,7 @@ Following along with
 Udemy.
 
 |  #  | Project                                                                                                             | Live Demo                                                                         |
-| :-: | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| :-: | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --- |
 | 01  | [Expanding Cards](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day1_Expanding_Cards)                   | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 | 02  | [Progress Steps](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day2_Progress_Steps)                     | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
 | 03  | [Rotating Navigation Animation](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day3_Rotating_Navigation) | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
@@ -31,13 +31,10 @@ Udemy.
 | 23  | [Kinetic Loader](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day23_Kinetic_CSS_Loader)                | [Live Demo](https://50projects50days.com/projects/kinetic-loader/)                |
 | 24  | [Content Placeholder](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day24_Content_Placeholder)          | [Live Demo](https://50projects50days.com/projects/content-placeholder/)           |
 | 25  | [Sticky Navbar](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day25_Sticky_Navbar)                      | [Live Demo](https://50projects50days.com/projects/sticky-navbar/)                 |
+| 26  | [Double Vertical Slider](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day26_Double_Vertical_Slider)    | [Live Demo](https://50projects50days.com/projects/double-vertical-slider/)        |     |
+| 27  | [Toast Notification](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day27_Toast_Notification)            | [Live Demo](https://50projects50days.com/projects/toast-notification/)            |
 
-<!--| 26 |
-[Double Vertical Slider](https://github.com/kelsi2/50_Projects_50_Days/tree/master/double-vertical-slider)
-| [Live Demo](https://50projects50days.com/projects/double-vertical-slider/) | |
-27 |
-[Toast Notification](https://github.com/kelsi2/50_Projects_50_Days/tree/master/toast-notification)
-| [Live Demo](https://50projects50days.com/projects/toast-notification/) | | 28
+<!--| 28
 |
 [Github Profiles](https://github.com/kelsi2/50_Projects_50_Days/tree/master/github-profiles)
 | [Live Demo](https://50projects50days.com/projects/github-profiles/) | | 29 |

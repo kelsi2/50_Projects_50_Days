@@ -33,11 +33,9 @@ Udemy.
 | 25  | [Sticky Navbar](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day25_Sticky_Navbar)                      | [Live Demo](https://50projects50days.com/projects/sticky-navbar/)                 |
 | 26  | [Double Vertical Slider](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day26_Double_Vertical_Slider)    | [Live Demo](https://50projects50days.com/projects/double-vertical-slider/)        |     |
 | 27  | [Toast Notification](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day27_Toast_Notification)            | [Live Demo](https://50projects50days.com/projects/toast-notification/)            |
+| 28  | [Github Profiles](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day28_Github_Profiles)                  | [Live Demo](https://50projects50days.com/projects/github-profiles/)               |
 
-<!--| 28
-|
-[Github Profiles](https://github.com/kelsi2/50_Projects_50_Days/tree/master/github-profiles)
-| [Live Demo](https://50projects50days.com/projects/github-profiles/) | | 29 |
+<!-- | 29 |
 [Double Click Heart](https://github.com/kelsi2/50_Projects_50_Days/tree/master/double-click-heart)
 | [Live Demo](https://50projects50days.com/projects/double-click-heart/) | | 30
 |

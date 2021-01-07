@@ -36,10 +36,9 @@ Udemy.
 | 28  | [Github Profiles](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day28_Github_Profiles)                  | [Live Demo](https://50projects50days.com/projects/github-profiles/)               |
 | 29  | [Double Click Heart](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day29_Double_Click_Heart)            | [Live Demo](https://50projects50days.com/projects/double-click-heart/)            |
 | 30  | [Auto Text Effect](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day30_Auto_Text_Effect)                | [Live Demo](https://50projects50days.com/projects/auto-text-effect/)              |
+| 31  | [Password Generator](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day31_Password_Generator)            | [Live Demo](https://50projects50days.com/projects/password-generator/)            |
 
-<!-- | 31 |
-[Password Generator](https://github.com/kelsi2/50_Projects_50_Days/tree/master/password-generator)
-| [Live Demo](https://50projects50days.com/projects/password-generator/) | | 32
+<!--| 32
 |
 [Good Cheap Fast](https://github.com/kelsi2/50_Projects_50_Days/tree/master/good-cheap-fast)
 | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/) | | 33 |

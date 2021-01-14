@@ -38,10 +38,9 @@ Udemy.
 | 30  | [Auto Text Effect](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day30_Auto_Text_Effect)                | [Live Demo](https://50projects50days.com/projects/auto-text-effect/)              |
 | 31  | [Password Generator](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day31_Password_Generator)            | [Live Demo](https://50projects50days.com/projects/password-generator/)            |
 | 32  | [Good Cheap Fast](https://github.com/kelsi2/50_Projects_50_Days/tree/master/good-cheap-fast)                        | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
+| 33  | [Notes App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/notes-app)                                    | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
 
-<!--| 33 |
-[Notes App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/notes-app)
-| [Live Demo](https://50projects50days.com/projects/notes-app/) | | 34 |
+<!--| 34 |
 [Animated Countdown](https://github.com/kelsi2/50_Projects_50_Days/tree/master/animated-countdown)
 | [Live Demo](https://50projects50days.com/projects/animated-countdown/) | | 35
 |

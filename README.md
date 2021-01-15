@@ -37,14 +37,13 @@ Udemy.
 | 29  | [Double Click Heart](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day29_Double_Click_Heart)            | [Live Demo](https://50projects50days.com/projects/double-click-heart/)            |
 | 30  | [Auto Text Effect](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day30_Auto_Text_Effect)                | [Live Demo](https://50projects50days.com/projects/auto-text-effect/)              |
 | 31  | [Password Generator](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day31_Password_Generator)            | [Live Demo](https://50projects50days.com/projects/password-generator/)            |
-| 32  | [Good Cheap Fast](https://github.com/kelsi2/50_Projects_50_Days/tree/master/good-cheap-fast)                        | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
-| 33  | [Notes App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/notes-app)                                    | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
-| 34  | [Animated Countdown](https://github.com/kelsi2/50_Projects_50_Days/tree/master/animated-countdown)                  | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
-| 35  | [Image Carousel](https://github.com/kelsi2/50_Projects_50_Days/tree/master/image-carousel)                          | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
+| 32  | [Good Cheap Fast](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day32_Checkboxes)                       | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
+| 33  | [Notes App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day33_Notes_App)                              | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
+| 34  | [Animated Countdown](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day34_Animated_Countdown)            | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
+| 35  | [Image Carousel](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day35_Image_Carousel)                    | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
+| 36  | [Hoverboard](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day36_Hoverboard)                            | [Live Demo](https://50projects50days.com/projects/hoverboard/)                    |
 
-<!--| 36 |
-[Hoverboard](https://github.com/kelsi2/50_Projects_50_Days/tree/master/hoverboard)
-| [Live Demo](https://50projects50days.com/projects/hoverboard/) | | 37 |
+<!--| 37 |
 [Pokedex](https://github.com/kelsi2/50_Projects_50_Days/tree/master/pokedex) |
 [Live Demo](https://50projects50days.com/projects/pokedex/) | | 38 |
 [Mobile Tab Navigation](https://github.com/kelsi2/50_Projects_50_Days/tree/master/mobile-tab-navigation)

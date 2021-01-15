@@ -42,10 +42,9 @@ Udemy.
 | 34  | [Animated Countdown](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day34_Animated_Countdown)            | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
 | 35  | [Image Carousel](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day35_Image_Carousel)                    | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
 | 36  | [Hoverboard](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day36_Hoverboard)                            | [Live Demo](https://50projects50days.com/projects/hoverboard/)                    |
+| 37  | [Pokedex](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day37_Pokedex)                                  | [Live Demo](https://50projects50days.com/projects/pokedex/)                       |
 
-<!--| 37 |
-[Pokedex](https://github.com/kelsi2/50_Projects_50_Days/tree/master/pokedex) |
-[Live Demo](https://50projects50days.com/projects/pokedex/) | | 38 |
+<!--| 38 |
 [Mobile Tab Navigation](https://github.com/kelsi2/50_Projects_50_Days/tree/master/mobile-tab-navigation)
 | [Live Demo](https://50projects50days.com/projects/mobile-tab-navigation/) | |
 39 |

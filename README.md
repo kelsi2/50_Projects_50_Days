@@ -40,11 +40,9 @@ Udemy.
 | 32  | [Good Cheap Fast](https://github.com/kelsi2/50_Projects_50_Days/tree/master/good-cheap-fast)                        | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
 | 33  | [Notes App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/notes-app)                                    | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
 | 34  | [Animated Countdown](https://github.com/kelsi2/50_Projects_50_Days/tree/master/animated-countdown)                  | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
+| 35  | [Image Carousel](https://github.com/kelsi2/50_Projects_50_Days/tree/master/image-carousel)                          | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
 
-<!--| 35
-|
-[Image Carousel](https://github.com/kelsi2/50_Projects_50_Days/tree/master/image-carousel)
-| [Live Demo](https://50projects50days.com/projects/image-carousel/) | | 36 |
+<!--| 36 |
 [Hoverboard](https://github.com/kelsi2/50_Projects_50_Days/tree/master/hoverboard)
 | [Live Demo](https://50projects50days.com/projects/hoverboard/) | | 37 |
 [Pokedex](https://github.com/kelsi2/50_Projects_50_Days/tree/master/pokedex) |

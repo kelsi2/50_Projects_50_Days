@@ -45,13 +45,10 @@ Udemy.
 | 37  | [Pokedex](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day37_Pokedex)                                           | [Live Demo](https://50projects50days.com/projects/pokedex/)                       |
 | 38  | [Mobile Tab Navigation](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day38_Mobile_Tab_Navigation)               | [Live Demo](https://50projects50days.com/projects/mobile-tab-navigation/)         |
 | 39  | [Password Strength Background](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day39_Password_Strength_Background) | [Live Demo](https://50projects50days.com/projects/password-strength-background/)  |
+| 40  | [3d Background Boxes](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day40_3d_Boxes_Background)                   | [Live Demo](https://50projects50days.com/projects/3d-background-boxes/)           |
+| 41  | [Verify Account Ui](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day41_Verify_Account_UI)                       | [Live Demo](https://50projects50days.com/projects/verify-account-ui/)             |
 
-<!--| 40 |
-[3d Background Boxes](https://github.com/kelsi2/50_Projects_50_Days/tree/master/3d-boxes-background)
-| [Live Demo](https://50projects50days.com/projects/3d-background-boxes/) | | 41
-|
-[Verify Account Ui](https://github.com/kelsi2/50_Projects_50_Days/tree/master/verify-account-ui)
-| [Live Demo](https://50projects50days.com/projects/verify-account-ui/) | | 42 |
+<!--| 42 |
 [Live User Filter](https://github.com/kelsi2/50_Projects_50_Days/tree/master/live-user-filter)
 | [Live Demo](https://50projects50days.com/projects/live-user-filter/) | | 43 |
 [Feedback Ui Design](https://github.com/kelsi2/50_Projects_50_Days/tree/master/feedback-ui-design)

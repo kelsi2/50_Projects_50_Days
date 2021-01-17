@@ -47,10 +47,9 @@ Udemy.
 | 39  | [Password Strength Background](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day39_Password_Strength_Background) | [Live Demo](https://50projects50days.com/projects/password-strength-background/)  |
 | 40  | [3d Background Boxes](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day40_3d_Boxes_Background)                   | [Live Demo](https://50projects50days.com/projects/3d-background-boxes/)           |
 | 41  | [Verify Account Ui](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day41_Verify_Account_UI)                       | [Live Demo](https://50projects50days.com/projects/verify-account-ui/)             |
+| 42  | [Live User Filter](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day42_Live_User_Filter)                         | [Live Demo](https://50projects50days.com/projects/live-user-filter/)              |
 
-<!--| 42 |
-[Live User Filter](https://github.com/kelsi2/50_Projects_50_Days/tree/master/live-user-filter)
-| [Live Demo](https://50projects50days.com/projects/live-user-filter/) | | 43 |
+<!--| 43 |
 [Feedback Ui Design](https://github.com/kelsi2/50_Projects_50_Days/tree/master/feedback-ui-design)
 | [Live Demo](https://50projects50days.com/projects/feedback-ui-design/) | | 44
 |

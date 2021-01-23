@@ -4,8 +4,8 @@ Following along with
 [50 Projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/) on
 Udemy.
 
-|  #  | Project                                                                                                                      | Live Demo                                                                         |
-| :-: | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --- |
+| #   | Project                                                                                                                      | Live Demo                                                                         |
+| --- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --- |
 | 01  | [Expanding Cards](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day1_Expanding_Cards)                            | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 | 02  | [Progress Steps](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day2_Progress_Steps)                              | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
 | 03  | [Rotating Navigation Animation](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day3_Rotating_Navigation)          | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
@@ -51,13 +51,10 @@ Udemy.
 | 43  | [Feedback UI Design](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day43_Feedback_UI_Design)                     | [Live Demo](https://50projects50days.com/projects/feedback-ui-design/)            |
 | 44  | [Custom Range Slider](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day44_Custom_Range_Slider)                   | [Live Demo](https://50projects50days.com/projects/custom-range-slider/)           |
 | 45  | [Netflix Mobile Navigation](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day45_Netflix_Mobile_Navigation)       | [Live Demo](https://50projects50days.com/projects/netflix-mobile-navigation/)     |
+| 46  | [Quiz App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day46_Quiz_App)                                         | [Live Demo](https://50projects50days.com/projects/quiz-app/)                      |
+| 47  | [Testimonial Box Switcher](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day47_Testimonial_Box_Switcher)         | [Live Demo](https://50projects50days.com/projects/testimonial-box-switcher/)      |
 
-<!--| 46 |
-[Quiz App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/quiz-app) |
-[Live Demo](https://50projects50days.com/projects/quiz-app/) | | 47 |
-[Testimonial Box Switcher](https://github.com/kelsi2/50_Projects_50_Days/tree/master/testimonial-box-switcher)
-| [Live Demo](https://50projects50days.com/projects/testimonial-box-switcher/) |
-| 48 |
+<!--| 48 |
 [Random Image Feed](https://github.com/kelsi2/50_Projects_50_Days/tree/master/random-image-generator)
 | [Live Demo](https://50projects50days.com/projects/random-image-feed/) | | 49 |
 [Todo List](https://github.com/kelsi2/50_Projects_50_Days/tree/master/todo-list)

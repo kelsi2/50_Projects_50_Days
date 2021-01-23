@@ -53,10 +53,9 @@ Udemy.
 | 45  | [Netflix Mobile Navigation](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day45_Netflix_Mobile_Navigation)       | [Live Demo](https://50projects50days.com/projects/netflix-mobile-navigation/)     |
 | 46  | [Quiz App](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day46_Quiz_App)                                         | [Live Demo](https://50projects50days.com/projects/quiz-app/)                      |
 | 47  | [Testimonial Box Switcher](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day47_Testimonial_Box_Switcher)         | [Live Demo](https://50projects50days.com/projects/testimonial-box-switcher/)      |
+| 48  | [Random Image Feed](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day48_Random_Image_Generator)                  | [Live Demo](https://50projects50days.com/projects/random-image-feed/)             |
 
-<!--| 48 |
-[Random Image Feed](https://github.com/kelsi2/50_Projects_50_Days/tree/master/random-image-generator)
-| [Live Demo](https://50projects50days.com/projects/random-image-feed/) | | 49 |
+<!--| 49 |
 [Todo List](https://github.com/kelsi2/50_Projects_50_Days/tree/master/todo-list)
 | [Live Demo](https://50projects50days.com/projects/todo-list/) | | 50 |
 [Insect Catch Game](https://github.com/kelsi2/50_Projects_50_Days/tree/master/insect-catch-game)

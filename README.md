@@ -4,8 +4,12 @@ Following along with
 [50 Projects in 50 Days](https://www.udemy.com/course/50-projects-50-days/) on
 Udemy.
 
-| #   | Project                                                                                                                      | Live Demo                                                                         |
-| --- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --- |
+I completed this course on January 23, 2021.
+
+!['Certificate of Completion'](docs/completion_certificate.jpg)
+
+| #   | Project | Live Demo |
+| --- | ------- | --------- |
 | 01  | [Expanding Cards](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day1_Expanding_Cards)                            | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 | 02  | [Progress Steps](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day2_Progress_Steps)                              | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
 | 03  | [Rotating Navigation Animation](https://github.com/kelsi2/50_Projects_50_Days/tree/master/Day3_Rotating_Navigation)          | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
